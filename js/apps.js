@@ -10,6 +10,6 @@ function data() {
     .then(data1 => data3(data1))
 }
 
-function data3(data4) {
-    console.log(data4);
+function data3(data1) {
+    console.log(data1);
 }
